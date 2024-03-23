@@ -20,3 +20,4 @@ class Program
         Console.WriteLine(Penjumlahan.JumlahTigaAngka<float>(13,02,22));
     }
 }
+
